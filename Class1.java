@@ -12,6 +12,6 @@ public class Class1 {
         // v1.0
     }
     private void f3() {
-        // v1.0
+        System.out.println("Completed!");
     }
 }
