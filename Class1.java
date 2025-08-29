@@ -14,4 +14,7 @@ public class Class1 {
     private void f3() {
         System.out.println("Completed!");
     }
+    private void f4() {
+        // v1.0
+    }
 }
