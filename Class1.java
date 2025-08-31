@@ -12,7 +12,7 @@ public class Class1 {
         // v1.0
     }
     private void f3() {
-        System.out.println("Completed!");
+        System.out.println("It is done!");
     }
     private void f4() {
         // v1.0
